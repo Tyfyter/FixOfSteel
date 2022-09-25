@@ -1,8 +1,7 @@
-# Plugin Template
+# Fix of Steel
 
-Project template for developing [.NET Script Framework](https://www.nexusmods.com/skyrimspecialedition/mods/21294) Plugins.
+Just makes the "Fists of Steel" perk use actual armor value instead of base armor value
 
 ## Requirements
 
-* [Visual Studio 2019](https://visualstudio.microsoft.com/)
 * [.NET Script Framework](https://www.nexusmods.com/skyrimspecialedition/mods/21294)
